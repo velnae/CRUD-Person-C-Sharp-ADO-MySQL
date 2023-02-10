@@ -1,9 +1,9 @@
 # CRUD de Person en C# .NET conectado con Mysql con ADO.NET
-## _Dividido en 3 capas_
+## _Dividido en 4 capas_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Esta repositorio muestra en 3 capas el crud de una tabla person de mysql conectado con ADO.NET.  
+Esta repositorio muestra en 4 capas el crud de una tabla person de mysql conectado con ADO.NET.  
 
 
 ## Features
