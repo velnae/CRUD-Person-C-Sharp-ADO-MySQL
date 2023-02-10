@@ -31,6 +31,20 @@ Clone este repositorio y abralo directamente desde el IDE indicado mas arriba
 git clone git@github.com:velnae/CRUD-Person-C-Sharp-ADO-MySQL.git
 ```
 
+Correr el siguiente script sql:  
+
+```sql
+create table tperson
+(
+    idPerson char(36) not null,
+    dni char(8) not null,
+    firstName varchar(70) not null,
+    surName varchar(40) not null,
+    birthDate date not null,
+    primary key(idPerson)
+) engine=innodb;
+```
+
 ## License
 
 MIT
