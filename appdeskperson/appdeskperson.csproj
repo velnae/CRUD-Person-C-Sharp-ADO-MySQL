@@ -54,7 +54,6 @@
     <Compile Include="BusinessLogic\BL_Person.cs" />
     <Compile Include="DataAccess\DA_BaseClass.cs" />
     <Compile Include="DataAccess\DA_Person.cs" />
-    <Compile Include="EntityClass\Person.cs" />
     <Compile Include="PresentationLayer\FrmPerson.cs">
       <SubType>Form</SubType>
     </Compile>
